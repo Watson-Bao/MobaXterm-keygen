@@ -12,7 +12,7 @@ Usage:
 
     <UserName>:      The Name licensed to
     <Version>:       The Version of MobaXterm
-                     Example:    10.9
+                     Example:    24.4
 ```
 
 EXAMPLE:
